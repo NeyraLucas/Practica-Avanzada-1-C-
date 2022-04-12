@@ -1,0 +1,15 @@
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\bin\Debug\net6.0\PracticaAvanzada1.exe
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\bin\Debug\net6.0\PracticaAvanzada1.deps.json
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\bin\Debug\net6.0\PracticaAvanzada1.runtimeconfig.json
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\bin\Debug\net6.0\PracticaAvanzada1.dll
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\bin\Debug\net6.0\PracticaAvanzada1.pdb
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\obj\Debug\net6.0\PracticaAvanzada1.csproj.AssemblyReference.cache
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\obj\Debug\net6.0\PracticaAvanzada1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\obj\Debug\net6.0\PracticaAvanzada1.AssemblyInfoInputs.cache
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\obj\Debug\net6.0\PracticaAvanzada1.AssemblyInfo.cs
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\obj\Debug\net6.0\PracticaAvanzada1.csproj.CoreCompileInputs.cache
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\obj\Debug\net6.0\PracticaAvanzada1.dll
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\obj\Debug\net6.0\refint\PracticaAvanzada1.dll
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\obj\Debug\net6.0\PracticaAvanzada1.pdb
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\obj\Debug\net6.0\PracticaAvanzada1.genruntimeconfig.cache
+C:\Users\lneyral1700\source\repos\PracticaAvanzada1\PracticaAvanzada1\obj\Debug\net6.0\ref\PracticaAvanzada1.dll
